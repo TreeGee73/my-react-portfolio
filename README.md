@@ -56,12 +56,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
   ## Images / Demo Video
-  <!-- A video demonstration of this application can be found [here](https://youtu.be/8QQGD-kPY20).
-  Click the image to launch the video. -->
-
-  <!-- [![Screeshot](Screenshot.jpg)](https://www.youtube.com/watch?v=8QQGD-kPY20 "Demo") -->
-
-  TBA <br />
+  
 <img src="screenshot.jpg" />
 
 ---
