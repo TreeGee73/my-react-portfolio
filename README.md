@@ -1,7 +1,9 @@
 # My React Portfolio
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-blue)<div style="text-align: right">[![Netlify Status](https://api.netlify.com/api/v1/badges/ea2b9980-f92e-4587-9f21-ba832d80f5ec/deploy-status)](https://app.netlify.com/sites/serene-brahmagupta-04ae03/deploys)</div>
 
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
 
 ## Table of Contents
   * [Description](#description)
