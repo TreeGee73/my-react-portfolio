@@ -1,7 +1,7 @@
 # My React Portfolio
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ## Table of Contents
   * [Description](#description)
@@ -9,7 +9,7 @@
   * [Technology](#technology)
   * [Installation](#installation)
   * [License](#license)
-  * [Images / Demo Video](#images-/-demo-video)
+  * [Images](#images)
   * [Contributing to This Repo](#contributing-to-this-repo)
   * [Questions / Contact Details](#questions-/-contact-details)
 
@@ -31,14 +31,14 @@ This app utilizes the following technologies:
  - [NodeJS](https://nodejs.org/)
  - [Express](https://www.npmjs.com/package/express)
  - [ReactJS](https://reactjs.org/)
- - [Heroku](https://www.heroku.com/)
+ - [Netlify](https://app.netlify.com/)
 
 
 ---
 
   ## Installation
 
-This has been deployed to GitHub pages.
+This has been deployed to Netlify and can be accessed at [https://serene-brahmagupta-04ae03.netlify.app/](https://serene-brahmagupta-04ae03.netlify.app/).
 
 ---
 
@@ -55,7 +55,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-  ## Images / Demo Video
+  ## Images
   
 <img src="screenshot.jpg" />
 
