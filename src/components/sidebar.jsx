@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/role-supports-aria-props */
 import React, { Component } from "react";
 
 export default class Sidebar extends Component {
@@ -42,10 +43,15 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
+                    <a href="#projects" data-nav-section="portfolio">
+                      Portfolio
+                    </a>
+                  </li>
+                  {/* <li>
                     <a href="#projects" data-nav-section="projects">
                       Projects
                     </a>
-                  </li>
+                  </li> */}
                   {/* <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                   <li>
                     <a href="#timeline" data-nav-section="timeline">
@@ -68,11 +74,20 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https:/https://github.com/TreeGee73/github.com/dbarochiya"
+                    href="https://github.com/TreeGee73"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <i className="icon-github"></i>
+                  </a>
+                </li>
+                <li>       
+                <a
+                    href="https://drive.google.com/file/d/18tdeUn-mJjBPNe-rVk9lh0DYz42WMRE4/view?usp=sharing"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="icon-file"></i>
                   </a>
                 </li>
               </ul>
