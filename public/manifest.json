@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TreeGee Portfolio",
+  "name": "Theresa 'TreeGee' Grier Portfolio",
+  "homepage": "https://github.com/TreeGee73/my-react-portfolio",
   "icons": [
     {
       "src": "favicon.ico",
