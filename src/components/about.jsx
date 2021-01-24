@@ -14,7 +14,7 @@ export default class About extends Component {
                 >
                   <div className="col-md-12">
                     <div className="about-desc">
-                      <span className="heading-meta">About Us</span>
+                      <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         I am a (soon to be) certified full stack developer, with
@@ -63,7 +63,7 @@ export default class About extends Component {
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">What I do</span>
                 <h2 className="colorlib-heading">Some of my expertise</h2>
               </div>
             </div>

@@ -13,7 +13,7 @@ export default class Portfolio extends Component {
               >
                 <span className="heading-meta">My Work</span>
                 <h2 className="colorlib-heading animate-box">
-                  A abbreviated list of applications from my portfolio.
+                  An abbreviated list of applications from my portfolio
                 </h2>
               </div>
             </div>
@@ -34,18 +34,18 @@ export default class Portfolio extends Component {
                       <span>Resturant app for the virtual ordering and consumption of burgers.</span>
                       <p className="icon">
                         <span>
-                          <a href="https://youtu.be/5ZNYhutNckw">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/5ZNYhutNckw" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo
                           </a>
                         </span>
                         <span>
-                          <a href="https://salty-sierra-88581.herokuapp.com/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://salty-sierra-88581.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span>
                         <span>
-                          <a href="https://github.com/TreeGee73/Burger-Eater">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/Burger-Eater" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -69,18 +69,18 @@ export default class Portfolio extends Component {
                       <span>Fitness Tracker for tracking daily workouts and exercises.</span>
                       <p className="icon">
                         <span>
-                          <a href="https://youtu.be/WBs3yf6RkR8">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/WBs3yf6RkR8" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo
                           </a>
                         </span>
                         <span>
-                          <a href="https://shrouded-springs-06094.herokuapp.com/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://shrouded-springs-06094.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span>
                         <span>
-                          <a href="https://github.com/TreeGee73/Move-It">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/Move-It" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -104,18 +104,18 @@ export default class Portfolio extends Component {
                       <span>Button-click game app with character selection and random encounters.</span>
                       <p className="icon">
                         {/* <span>
-                          <a href="https://youtu.be/WBs3yf6RkR8">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/WBs3yf6RkR8" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo
                           </a>
                         </span> */}
                         <span>
-                          <a href="https://ascendproject.herokuapp.com/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://ascendproject.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span>
                         <span>
-                          <a href="https://github.com/TreeGee73/Ascend">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/Ascend" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -139,18 +139,18 @@ export default class Portfolio extends Component {
                       <span>An interactive dashboard for obtaining realtime data on COVID-19 by state or country.</span>
                       <p className="icon">
                         {/* <span>
-                          <a href="https://youtu.be/WBs3yf6RkR8">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/WBs3yf6RkR8" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo
                           </a>
                         </span> */}
                         <span>
-                          <a href="https://anandlal1080.github.io/covid19-dashboard/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://anandlal1080.github.io/covid19-dashboard/" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span>
                         <span>
-                          <a href="https://github.com/TreeGee73/covid19-dashboard-project1">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/covid19-dashboard-project1" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -174,18 +174,18 @@ export default class Portfolio extends Component {
                       <span>A command-line application that accepts user input to generate an HTML webpage.</span>
                       <p className="icon">
                         <span>
-                          <a href="https://youtu.be/XwDZOvQD080">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/XwDZOvQD080" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo
                           </a>
                         </span>
                         {/* <span>
-                          <a href="https://anandlal1080.github.io/covid19-dashboard/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://anandlal1080.github.io/covid19-dashboard/" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span> */}
                         <span>
-                          <a href="https://github.com/TreeGee73/Team-Profile-Generator">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/Team-Profile-Generator" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -209,18 +209,18 @@ export default class Portfolio extends Component {
                       <span>Pokemon themed CLI content management solution for managing a company's employees.</span>
                       <p className="icon">
                         <span>
-                          <a href="https://youtu.be/xMOKVi3SfCU">
-                            <i className="icon-play" /> View a demo.
+                          <a href="https://youtu.be/xMOKVi3SfCU" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-play4" /> Demo.
                           </a>
                         </span>
                         {/* <span>
-                          <a href="https://anandlal1080.github.io/covid19-dashboard/">
-                            <i className="icon-sphere" /> View the deployed app.
+                          <a href="https://anandlal1080.github.io/covid19-dashboard/"  target="_blank" rel="noopener noreferrer">
+                            <i className="icon-world" /> Deployed App
                           </a>
                         </span> */}
                         <span>
-                          <a href="https://github.com/TreeGee73/Team-Tracker">
-                            <i className="icon-github" /> View this repository on GitHub.
+                          <a href="https://github.com/TreeGee73/Team-Tracker" target="_blank" rel="noopener noreferrer">
+                            <i className="icon-github" /> Repository
                           </a>
                         </span>
                       </p>
@@ -232,8 +232,8 @@ export default class Portfolio extends Component {
             <div className="row">
               <div className="col-md-12 animate-box">
                 <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
-                    Load more <i className="icon-reload" />
+                  <a href="https://github.com/TreeGee73" className="btn btn-primary btn-lg btn-load-more" target="_blank" rel="noopener noreferrer">
+                    View more <i className="icon-github" />
                   </a>
                 </p>
               </div>
