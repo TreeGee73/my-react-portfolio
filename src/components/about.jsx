@@ -17,37 +17,16 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a (soon to be) certified full stack developer, with
-                        an Associates of Science degree in Information
-                        Techonology with a Visual Communications concentration
-                        and over 15-years of experience developing and
-                        maintaining web sites using HTML, CSS, JavaScript, and
-                        WYSIWYG editors like Wordpress.
+                      I am a certified full stack developer with over 15 years of experience developing and maintaining websites using HTML, CSS, JavaScript, and WYSIWYG editors like WordPress. I have extensive experience supporting marketing teams in various roles, using creative applications like Adobe InDesign, Photoshop, and Illustrator. My passion for creating and maintaining websites led me to earn a Web Master's Certification and an Associate of Arts in Information Technology.
                       </p>
                       <p>
-                        I got my Web Master's Certification in 2020 and have
-                        utilized various resources and training to gradually
-                        build on my outdated experience to keep my skills
-                        competative, but when web development expanded to
-                        include a myriad of new technologies and principles I
-                        committed to bringing my knowledge fully up to date and
-                        become recertified in a modern context.
+                      I continuously build on my experience through various resources and training to keep my skills competitive, and am currently working on a Bachelor of Science in Graphic Information Technology, Full Stack Developement at Arizona State University. When web development expanded to include new technologies and principles, I committed to updating my knowledge and becoming recertified in a modern context. While my expertise is primarily in web browser-based sites and applications, I have also applied my skills to create, program, and implement interactive web controls for user automation stations used in a petroleum refinery.
                       </p>
                       <p>
-                        Though my experience has been in web browser based sites
-                        and applications, I have also applied my skills to
-                        create, program, and impliment interactive web controls
-                        for user automation stations used in a petrolium
-                        refinery.
+                      Outside of web development, my family is my top priority. I am a committed mother of two beautiful daughters and enjoy being an active participant in their education and extracurricular activities. I find immense joy in supporting their academic growth and cheering them on at their various events and practices.
                       </p>
                       <p>
-                        Besides being passionate about web development, I enjoy
-                        a multitude of other things but my family always comes
-                        first. I don't know if it's something that is shared
-                        with other folks who enjoy programming, but I am an avid
-                        cook and baker. I enjoy spending time in the kitchen
-                        creating new dishes or baking (what can be elaborate)
-                        confections.
+                      When I'm not coding or spending time with my family, I love getting creative in the kitchen. Cooking and baking are my passions, and I often find myself experimenting with new recipes and creating elaborate confections. Whether I'm crafting a new dish for dinner or baking intricate desserts, the kitchen is my happy place where I can express my creativity and share delicious moments with my loved ones.
                       </p>
                     </div>
                   </div>
@@ -76,8 +55,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development</h3>
                     <p>
-                      I have experience building websites using HTML, CSS,
-                      JavaScript, and React. <br />
+                    I have experience building websites using HTML, CSS, JavaScript, and React. Additionally, I am proficient in using a variety of WYSIWYG and "self-build" platforms like WordPress.<br />
                       <br />
                     </p>
                   </div>
@@ -91,9 +69,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Full-Stack Development</h3>
                     <p>
-                      I have successfully developed applications that utilized
-                      MySQL and MongoDB, am currently seeking an opportunity to
-                      expand my experience.
+                    I have successfully developed applications utilizing MySQL and MongoDB. Additionally, I have experience with Bootstrap, React, and p5.js.I am currently seeking an opportunity to further expand my experience and skill set.
                     </p>
                   </div>
                 </div>
@@ -106,9 +82,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Digital Marketing</h3>
                     <p>
-                      I have experience with mobile app development, email
-                      marketing (creative and campaign development), and social
-                      media marketing.
+                    I have experience in the development and deployment of mobile apps, email marketing creatives and campaigns, and social media marketing campaigns.
                     </p>
                   </div>
                 </div>
@@ -121,10 +95,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Graphic Design</h3>
                     <p>
-                      I have successfully created printed and digital products
-                      using Adobe inDesign. I am also pretty handy with
-                      Photoshop and can manipulate images and create graphics
-                      when needed.
+                    I have experience creating both printed and digital products using Adobe InDesign, as well as manipulating images and creating graphics with Photoshop. Additionally, I am skilled in using Adobe Illustrator for digital and print media creation.
                     </p>
                   </div>
                 </div>

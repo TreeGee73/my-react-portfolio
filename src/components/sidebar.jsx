@@ -26,7 +26,7 @@ export default class Sidebar extends Component {
                 <a href="index.html">Theresa<br/>'TreeGee'<br />Grier</a>
               </h1>
               <span className="email">
-                <i className="icon-mail"></i> treegee73@gmail.com
+                <i className="icon-mail"></i> theresa@thegriers.org
               </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -83,7 +83,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>       
                 <a
-                    href="https://drive.google.com/file/d/18tdeUn-mJjBPNe-rVk9lh0DYz42WMRE4/view?usp=sharing"
+                    href="https://1drv.ms/b/s!AoC-TTrRL_1y9mwO5bvnZG4MJEt2?e=G5R1NQ"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -100,7 +100,7 @@ export default class Sidebar extends Component {
                 </small>
               </p>
               <p>
-                <small>&copy;2021 TMG</small>
+                <small>&copy;2024 TMG</small>
               </p>
             </div>
           </aside>
