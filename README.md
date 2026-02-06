@@ -65,4 +65,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   ## Questions / Contact Details
   This app can be found on my Github page at [TreeGee73](https://github.com/TreeGee73).
 
-  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [theresa@thegriers.org](theresa@thegriers.org).
+  If you have any questions or need to contact me about this app, I can reached either on Github or by email.
