@@ -33,7 +33,6 @@ This app utilizes the following technologies:
  - [NodeJS](https://nodejs.org/)
  - [Express](https://www.npmjs.com/package/express)
  - [ReactJS](https://reactjs.org/)
- - [Netlify](https://app.netlify.com/)
 
 
 ---
