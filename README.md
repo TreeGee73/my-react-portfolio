@@ -37,11 +37,6 @@ This app utilizes the following technologies:
 
 ---
 
-  ## Installation
-
-This has been deployed to Netlify and can be accessed at [https://serene-brahmagupta-04ae03.netlify.app/](https://serene-brahmagupta-04ae03.netlify.app/).
-
----
 
   ## License
 ![License](https://img.shields.io/badge/License-MIT-blue)
